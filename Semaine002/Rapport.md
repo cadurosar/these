@@ -14,7 +14,7 @@
     * Le code utilise trop de memoire
         * Tester matrice sparse
         * Reflechir code du pooling sans multiplication de matrice
-    * [Jupyter notebook qu'explique l'implémentation du Pooling](Pooling.pdf)
+    * [Jupyter notebook qu'explique l'implémentation du Pooling](Pooling.html)
 
 * Code de Reinforcement Learning pour PyRat
     * J'arrive à entrainer le rat pour 5x5 et 10x10 sur le code «FakeRat»
