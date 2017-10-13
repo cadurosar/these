@@ -21,7 +21,7 @@
         * Code «FakeRat» c'est une simulation de «PyRat»
         * Rats entrainés sur «FakeRat» marchent sur «PyRat»
         * Pas encore arrivè à entrainer sur 20x20
-        * [«FakeRat» notebook](), [Trained Rat 10x10](FakeRat.pdf)
+        * [«FakeRat» notebook](FakeRat.html), [Trained Rat 10x10](fakerat.h5)
     * Je n'arrive pas trop à entrainer le rat sur «PyRat»
         * Problèmes de chiffre aleatoire que ne sont pas vraiment aleatoires (Bug random seed?)
         * Memê sans utiliser d'aleatoire, le rat arrive à 70,80% sur 5x5 
