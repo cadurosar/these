@@ -9,8 +9,10 @@
 * Visite medicale d'embauche
 
 * Premier essaie du Pooling 
-    * environ 50% avec un code qu'avait un pétit erreur de concept (la partie de max pooling n'était pas vraiment coerent)
-    * environ x% sans l'erreur de concept
+    * Le résultat reste toujours environ 50%
+        * Meme si la version «image» et pas «graphe» du réseau depasse 70%
+        * conv + pooling < conv pour les «graphes»
+            * conv + pooling > conv pour les «images»
     * Le code utilise trop de memoire
         * Tester matrice sparse
         * Reflechir code du pooling sans multiplication de matrice
